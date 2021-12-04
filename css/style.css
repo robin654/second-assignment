@@ -1,0 +1,57 @@
+header{
+    background-color: cadetblue;
+    text-align: center;
+    width: 100%;
+    font-size: medium;
+    height: 50px;
+}
+
+.slider{
+    background-color: chocolate;
+    text-align: center;
+    height: 150px;
+    color: white;
+}
+
+.left{
+    height: 500px;
+    width: 50%;
+    float: left;
+    background-color: tomato;
+}
+.left_one{
+    height: 50%;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+}
+.left_two{
+    height: 50%;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+
+}
+.right{
+    text-align: center;
+    width: 50%;
+    height: 500px;
+    background-color: chartreuse;
+    color: white;
+    float: right;
+}
+.content{
+    overflow: hidden;
+}
+
+span{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+footer{
+    background-color: turquoise;
+    text-align: center;
+    height: 150px;
+    
+}
